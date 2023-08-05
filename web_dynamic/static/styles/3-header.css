@@ -8,4 +8,10 @@ header .logo {
     background: url("../images/logo.png") no-repeat;
     left: 20px;
     height: 100%;
+    width: 160px;
+    float: left;
+}
+
+header .available {
+    background-color: #ff545f !important;
 }
